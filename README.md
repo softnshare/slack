@@ -5,3 +5,4 @@
 - [網路meet up](https://github.com/softnshare/meetups)
 - [職缺刊登](https://softnshare.wordpress.com/職缺刊登/) - 會同步發佈到Slack 
 - [電子書團購](https://www.facebook.com/groups/softnshareGroupBuy/)
+- [開發工具代購](https://softnshare.wordpress.com/工具/)
