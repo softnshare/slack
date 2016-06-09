@@ -7,3 +7,6 @@ Soft & Share slack社群為[嵌藝創研軟體科技有限公司](https://softns
 - [職缺刊登](https://softnshare.wordpress.com/職缺刊登/) - 會同步發佈到Slack 
 - [電子書團購](https://www.facebook.com/groups/softnshareGroupBuy/)
 - [開發工具代購](https://softnshare.wordpress.com/工具/)
+
+
+## Slack使用技巧
