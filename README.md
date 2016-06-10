@@ -9,6 +9,11 @@ Soft & Share slack社群為[嵌藝創研軟體科技有限公司](https://softns
 - [開發工具代購](https://softnshare.wordpress.com/工具/)
 
 
+## Soft & Share slack 地圖
+
+請參考 [Slack 頻道地圖](https://softnshare.wordpress.com/soft-share-slack-頻道地圖/)
+
+
 ## Slack使用技巧
 
 請參考 [Slack tips](https://github.com/softnshare/slack/blob/master/slacktips/readme.md)
