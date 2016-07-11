@@ -17,3 +17,7 @@ Soft & Share slack社群為[嵌藝創研軟體科技有限公司](https://softns
 ## Slack使用技巧
 
 請參考 [Slack tips](https://github.com/softnshare/slack/blob/master/slacktips/readme.md)
+
+## Zoom使用技巧
+
+請參考 [Zoom tips](https://github.com/softnshare/slack/blob/master/zoom/README.md)
